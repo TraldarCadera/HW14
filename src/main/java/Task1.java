@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//
 public class Task1 {
 
     public static int[] AfterLast4(int[] arr) throws RuntimeException {

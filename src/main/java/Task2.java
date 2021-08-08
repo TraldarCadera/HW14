@@ -1,5 +1,5 @@
 public class Task2 {
-
+//
     public static boolean Only1And4(int[] arr) {
         boolean i1 = false, i4 = false;
         for (int j : arr) {
